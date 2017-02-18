@@ -1,5 +1,5 @@
 # express-mad
-This a mad-lib game developing with HTML, Javascript, and express.js
+This a [mad-libs](https://en.wikipedia.org/wiki/Mad_Libs) game developing with HTML, Javascript, and express.js
 
 # Install
 ```
@@ -8,4 +8,4 @@ cd express-mad
 npm install
 npm start
 ```
-Enter this application through `http://localhost:8000`
+Enter this application through `http://localhost:8080`
