@@ -1,5 +1,5 @@
 # express-mad
-This a [mad-libs](https://en.wikipedia.org/wiki/Mad_Libs) game developing with HTML, Javascript, and express.js
+This a [mad-libs](https://en.wikipedia.org/wiki/Mad_Libs) game developed using HTML, Javascript, and express.js.
 
 # Install
 ```
